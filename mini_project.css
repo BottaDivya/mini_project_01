@@ -20,7 +20,7 @@ header span {
 }
 
 header+section {
-    background-image: url(/public/images/healthyhood_banner.png);
+    background-image: url(../mini_project_01/images/healthyhood_banner.png);
 }
 
 main {
