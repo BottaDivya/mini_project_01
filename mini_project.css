@@ -1,0 +1,66 @@
+        .bi-leaf-fill{
+            color: rgb(10, 128, 10);
+        }
+        header{
+            font-size: 16px;
+            color: whitesmoke;
+            background-color: rgba(4, 42, 4, 0.977);
+            display: flex;
+            justify-content: space-around;
+        }
+        header div{
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        header span{
+            padding-left: 30px; 
+        }
+        header+section{
+            background-image: url(/public/images/healthyhood_banner.png);
+        }
+        main{
+            display: grid;
+            grid-template-columns: 4fr 8fr;
+        }
+        .coatations{
+            position: absolute;
+            top: 155px;
+            color: whitesmoke;
+            font-size: 80px;
+            font-family: Forte;
+        }
+        .bi-check{
+            color: rgb(6, 61, 6);
+        }
+        .foot{
+            display: grid;
+            grid-template-columns: 6fr 6fr;
+        }
+        .end span{
+            padding-left: 30px;
+            padding-right: 80px;
+        }
+        .policy span{
+            padding-left: 20px;
+        }
+        .absolute span{
+            padding-left: 90px;
+        }
+        .absolute span p{
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 5px;
+            border-radius: 15px;
+        }
+        .move{
+            position: absolute;
+            top: 2220px;
+            left: 80px;
+            color: whitesmoke;
+            font-size: 30px;
+            font-family: Britannic;
+        }
+        .side div{
+            padding-left: 80px;
+            margin-top: 120px;
+            margin-bottom: 120px;
+        }
